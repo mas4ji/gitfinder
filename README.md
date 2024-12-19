@@ -46,3 +46,14 @@ Ikuti langkah-langkah berikut untuk menginstal **GitLeakHunter** di sistem Anda.
 
    ```bash
    pip install -r requirements.txt
+
+## 💻 Penggunaan GitLeakHunter
+
+Setelah Anda berhasil menginstal **GitLeakHunter**, Anda dapat mulai menggunakannya untuk memindai domain atau subdomain untuk file `.git` yang terekspos. Berikut adalah cara menggunakan alat ini.
+
+### 1. **Memindai Domain Tunggal**
+
+Untuk memindai satu domain atau subdomain, jalankan perintah berikut:
+
+```bash
+python3 gitt.py -d example.com
