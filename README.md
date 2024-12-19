@@ -32,3 +32,17 @@ Ikuti langkah-langkah berikut untuk menginstal **GitLeakHunter** di sistem Anda.
 
    ```bash
    git clone https://github.com/mas4ji/GitLeakHunter.git
+
+2. **Masuk ke direktori proyek**
+
+   Setelah berhasil meng-clone repositori, masuk ke direktori GitLeakHunter:
+
+   ```bash
+   cd GitLeakHunter
+
+4. **Install dependensi**
+
+   Instal semua dependensi yang diperlukan dengan pip. Jalankan perintah berikut:
+
+   ```bash
+   pip install -r requirements.txt
