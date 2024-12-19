@@ -53,7 +53,7 @@ Setelah Anda berhasil menginstal **GitLeakHunter**, Anda dapat mulai menggunakan
 
 ### 1. **Memindai Domain Tunggal**
 
-Untuk memindai satu domain atau subdomain, jalankan perintah berikut:
+   Untuk memindai satu domain atau subdomain, jalankan perintah berikut:
 
    ```bash
    python3 gitt.py -d example.com
