@@ -11,8 +11,24 @@ Dengan **GitLeakHunter**, Anda dapat dengan cepat memeriksa apakah suatu website
 - 📊 Memberikan hasil yang mudah dibaca dengan status "Vulnerable" atau "Not Vulnerable".
 - 📝 Dapat digunakan untuk memindai satu domain atau daftar domain dari file teks.
 
-## 🛠 Instalasi
+## 🛠 Instalasi GitLeakHunter
 
-### Prasyarat
+Berikut adalah langkah-langkah untuk menginstal dan menjalankan **GitLeakHunter** di sistem Anda.
 
-Pastikan Anda memiliki **Python 3.x** yang terinstal di sistem Anda. Anda juga perlu menginstal beberapa dependensi yang diperlukan.
+### Persyaratan
+
+Sebelum mulai menginstal, pastikan Anda memiliki beberapa perangkat lunak yang diperlukan di sistem Anda:
+
+- **Python 3.x** atau lebih tinggi
+- **pip** untuk mengelola paket Python
+
+### Langkah-langkah Instalasi
+
+Ikuti langkah-langkah berikut untuk menginstal **GitLeakHunter** di sistem Anda.
+
+1. **Clone repository ini**
+
+   Pertama, clone repositori GitHub ke sistem Anda menggunakan perintah berikut di terminal:
+
+   ```bash
+   git clone https://github.com/mas4ji/GitLeakHunter.git
